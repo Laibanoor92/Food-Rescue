@@ -146,7 +146,7 @@ food-rescue/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/mshiveshm/Food-Rescue.git
+git clone https://github.com/Laibanoor92/Food-Rescue.git
 cd Food-Rescue
 ```
 
